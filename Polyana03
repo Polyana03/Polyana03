@@ -1,0 +1,27 @@
+# Meu Projeto
+
+Este é um projeto de exemplo criado para demonstrar a estrutura básica de um repositório.
+
+## Requisitos
+
+- Python 3.10 ou superior
+
+## Como executar
+
+1. Clone o repositório.
+2. Acesse a pasta do projeto.
+3. Execute o comando:
+
+```bash
+python main.py
+```
+
+## Exemplo de saída
+
+```
+Olá, mundo!
+```
+
+## Licença
+
+Este projeto está disponível para fins de estudo.
